@@ -4,7 +4,7 @@ ryder1005|b6dde399-0993-4177-8d8f-2b5b704da7af|👑作者&腳本管理員|作者
 vythackcat|UNBOUND|小明|VIP尊榮|2025-07-31
 test0730|UNBOUND|測試用戶|一般密鑰|2025-08-08
 test1|UNBOUND|測試員|測試用戶|2025-07-31
-Gay|UNBOUND|測試員😏|測試用戶|2025-07-31
+Gay|93b8afbb-2051-4aec-9e26-dcccc2403688|測試員😏|測試用戶|2025-07-31
 連哈姆吧|171f82be-b202-4bc1-ba87-27a7638b079b|測試員😏|連哈姆|2025-08-01
 URGAY|UNBOUND|測試員😏|GAY|2025-08-01
 
