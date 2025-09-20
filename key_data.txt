@@ -15,7 +15,7 @@ vip1157|b2372153-02a5-4132-9d84-d6761061d8fe|測試員1🫠|測試|2025-09-01
 vip1158|e95fa025-8192-451e-b37e-11de5917abb7|測試員1🫠|測試|2025-08-02
 YTCATHACK|UNBOUND|👑貓貓Cat|腳本系統管理員|2029-08-02
 catcat9832|UNBOUND|Car parking 外掛討論群 & CPM 工具|測試員|2025-08-06
-ASD2818|UNBOUND|Car parking 外掛討論群 & CPM 工具|測試員|2025-08-06
+ASD2818|UNBOUND|Car parking 外掛討論群 & CPM 工具|測試員|2025-12-06
 RMSTUDIO2927|UNBOUND|Car parking 外掛討論群 & CPM 工具|測試員|2025-08-06
 rmgame1086|UNBOUND|Car parking 外掛討論群 & CPM 工具|測試員|2025-08-06
 YTCAT1037|UNBOUND|Car parking 外掛討論群 & CPM 工具|測試員|2025-08-06
